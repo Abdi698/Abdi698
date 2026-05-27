@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdi Husen</h1>
-<h3 align="center">A passionate frontend developerr from Ethiopia</h3>
+<h3 align="center">A passionate Software Developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdi698&label=Profile%20views&color=0e75b6&style=flat" alt="abdi698" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdi698" alt="abdi698" /></a> </p>
 
-- 🌱 I’m currently learning **node js and react**
-
-- 💬 Ask me about **hmtl,css,js**
+- 🌱 I’m currently learning **advanced java**
 
 - 📫 How to reach me **abdiihuseen31@gmail.com**
 
